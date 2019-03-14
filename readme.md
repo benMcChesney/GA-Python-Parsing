@@ -1,5 +1,5 @@
-# BlueOwl - Analyst Test
-Exploring some data tests out there and wanted to see to give it a shot!
+# Google Analytics Test - Analyst Test
+Exploring some python + data exams out there
 https://github.com/BlueOwlOpenSource/simple-tech-challenges/blob/master/data-analyst/data-analyst-instructions.pdf
 
 
